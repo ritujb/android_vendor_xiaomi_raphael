@@ -139,8 +139,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/lib64/lib-imsvtextutils.so:system/lib64/lib-imsvtextutils.so \
     vendor/xiaomi/raphael/proprietary/lib64/lib-imsvtutils.so:system/lib64/lib-imsvtutils.so \
     vendor/xiaomi/raphael/proprietary/lib64/libFileMux.so:system/lib64/libFileMux.so \
-    vendor/xiaomi/raphael/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
-    vendor/xiaomi/raphael/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/xiaomi/raphael/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/xiaomi/raphael/proprietary/lib64/libdisplayconfig.so:system/lib64/libdisplayconfig.so \
     vendor/xiaomi/raphael/proprietary/lib64/libdpmctmgr.so:system/lib64/libdpmctmgr.so \
