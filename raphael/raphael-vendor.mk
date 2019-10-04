@@ -16,11 +16,9 @@
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/bin/dpmd:system/bin/dpmd \
-    vendor/xiaomi/raphael/proprietary/bin/hw/android.hardware.power@1.2-service:system/bin/hw/android.hardware.power@1.2-service \
     vendor/xiaomi/raphael/proprietary/bin/wfdservice:system/bin/wfdservice \
     vendor/xiaomi/raphael/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
     vendor/xiaomi/raphael/proprietary/etc/excluded-input-devices.xml:system/etc/excluded-input-devices.xml \
-    vendor/xiaomi/raphael/proprietary/etc/init/android.hardware.power@1.2-service.rc:system/etc/init/android.hardware.power@1.2-service.rc \
     vendor/xiaomi/raphael/proprietary/etc/init/dpmd.rc:system/etc/init/dpmd.rc \
     vendor/xiaomi/raphael/proprietary/etc/init/wfdservice.rc:system/etc/init/wfdservice.rc \
     vendor/xiaomi/raphael/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
